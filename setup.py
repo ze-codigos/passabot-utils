@@ -26,7 +26,7 @@ setup(
     ],
     python_requires=">=3.8",
     install_requires=[
-        # Adicione dependências aqui se necessário
+        "pydantic>=2.0.0",
     ],
 )
 
