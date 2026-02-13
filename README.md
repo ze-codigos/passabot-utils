@@ -14,10 +14,10 @@ cd passabot-utils
 pip install -e .
 ```
 
-### Instalação via GitHub (quando publicar)
+### Instalação via GitHub
 
 ```bash
-pip install git+https://github.com/passabot/passabot-utils.git
+pip install git+https://github.com/ze-codigos/passabot-utils.git
 ```
 
 ### Instalação via PyPI (quando publicar)

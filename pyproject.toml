@@ -29,6 +29,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/passabot/passabot-utils"
-Repository = "https://github.com/passabot/passabot-utils"
+Homepage = "https://github.com/ze-codigos/passabot-utils"
+Repository = "https://github.com/ze-codigos/passabot-utils"
 

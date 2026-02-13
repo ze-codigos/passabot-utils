@@ -11,7 +11,7 @@ setup(
     description="Funções auxiliares para agentes PassaBot",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/passabot/passabot-utils",
+    url="https://github.com/ze-codigos/passabot-utils",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
