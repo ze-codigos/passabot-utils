@@ -5,7 +5,7 @@ def links_markdown(text: str) -> str:
     return re.sub(r'\[(https?://[^\]]+)\]\(\1\)', r'\1',text)
 
 
-def quebrar_mensagem(texto: str, max_linhas_por_parte: int = 3) -> List[str]:
+def whatsapp_humanizer(texto: str, max_linhas_por_parte: int = 3) -> List[str]:
     """
     Quebra uma mensagem em partes menores de forma inteligente para simular
     comportamento humano no WhatsApp. Se a mensagem contiver ':', não quebra.
