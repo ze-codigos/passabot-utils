@@ -6,8 +6,12 @@ Biblioteca de funções auxiliares para agentes PassaBot.
 
 ### Instalação via pip (local)
 
+Clone o repositório e instale em modo desenvolvimento:
+
 ```bash
-pip install -e /home/ferna/Passabot/passabot-utils
+git clone https://github.com/passabot/passabot-utils.git
+cd passabot-utils
+pip install -e .
 ```
 
 ### Instalação via GitHub (quando publicar)
