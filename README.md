@@ -69,20 +69,14 @@ passabot-utils/
 └── README.md
 ```
 
-### Build e publicação
 
-```bash
-# Instalar ferramentas de build
-pip install build twine
+## 📜 License
 
-# Criar distribuição
-python -m build
+This project is licensed under the Apache License 2.0.
 
-# Publicar no PyPI (quando estiver pronto)
-twine upload dist/*
-```
+You are free to use, modify, and distribute this software, including for commercial purposes, provided that you include the original copyright and license notice.
 
-## Licença
+See the [LICENSE](LICENSE) file for more details.
 
-MIT License
+
 
