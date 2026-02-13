@@ -70,7 +70,13 @@ passabot-utils/
 ```
 
 
-## Licença
+## 📜 License
 
-MIT License
+This project is licensed under the Apache License 2.0.
+
+You are free to use, modify, and distribute this software, including for commercial purposes, provided that you include the original copyright and license notice.
+
+See the [LICENSE](LICENSE) file for more details.
+
+
 
