@@ -24,7 +24,6 @@ def whatsapp_humanizer(texto: str, max_linhas_por_parte: int = 3) -> List[str]:
     texto = texto.strip()
     texto = links_markdown(texto)
 
-  
     
     # Divide em blocos lógicos
     blocos = []
