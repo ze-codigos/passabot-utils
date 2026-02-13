@@ -69,18 +69,6 @@ passabot-utils/
 └── README.md
 ```
 
-### Build e publicação
-
-```bash
-# Instalar ferramentas de build
-pip install build twine
-
-# Criar distribuição
-python -m build
-
-# Publicar no PyPI (quando estiver pronto)
-twine upload dist/*
-```
 
 ## Licença
 
